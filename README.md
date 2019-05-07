@@ -1,5 +1,3 @@
-# MeowRebellion-ChatServer
-
 # Meow Rebellion (Chat Server System)
 
 The Meow Rebellion is a chat server and client system that will allow you to chat with multiple users at real time. Anyone who is a Meow Rebel 
@@ -28,19 +26,19 @@ Java is platform independent. So, this system will run in any machine compatible
 
 Run the executable ChatClient.jar file in order to enter the system.
 
-## Built With
+### Built With
 
 * [Netbeans](https://netbeans.org/kb/) - The java IDE used
 * [mySQL](https://www.mysql.com/) - Database used
 
-## Authors
+### Authors
 
 Name: Mirza Kamrul Bashar Shuhan
 Reg. No.: 2014331037
 Name: Umme Sumaya Jannat
 Reg. No.: 2014331022
 
-## Acknowledgments
+### Acknowledgments
 
 * stackoverflow.com
 * tutorialspoint.com
